@@ -1,4 +1,4 @@
-# data-semantics
+# Data-semantics
 
 Artificial intelligence is becoming more and more crucial in everyday life, with significant investments
 leading to substantial advancements and outcomes. In order to deeply understand this field, it is important
